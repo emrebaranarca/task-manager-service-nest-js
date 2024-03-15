@@ -24,7 +24,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+A backend service where you can create custom tasks for users. Using this software, you can create applications with many features such as user registration, user login, email verification, access token retrieval and logging, configuration, route protection, and more.
 
 ## Installation
 
@@ -58,15 +59,10 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [EMRE BARAN ARCA](https://www.linkedin.com/in/emre-baran-arca/)
+
 
 ## License
 
